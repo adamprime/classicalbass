@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://classicalbass.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Classical Bass Swag and Merch"
 theme = "ananke"
